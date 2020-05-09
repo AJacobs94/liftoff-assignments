@@ -7,10 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-{Company name} is a book recommendation site. We help book lovers find books related to Titles and Authors 
-they love without the hassle of researching it themselves.
-We also help poor book sellers trying to find a book similar to that of the esoteric likings of the consumer. 
-Our primary competetive advantage 
+
+My Idea is R-MAV, a video game recommendation site. Consumers can create an account, and search for 
+video games similar to the ones they enjoy. After searching for items related to titles of interest,
+they will be able to make a personalized list of items they found and would like to refer to at a 
+later time. They will also be able to purchase these items through links attached to the title.
+
+I have thought of this countless times while trying to look for video games similar to ones I like, and it 
+can be a tedious task. We help game lovers find games related to titles they love without the hassle of 
+researching it themselves. It is easy to use, and the users will always need a good new recommendation.
+
 
 ### Features
 -User Login: Users will be able to create accounts and log in.
@@ -24,9 +30,14 @@ Our primary competetive advantage
 -Buy Product:Users will be able to buy items from a link attached to their saved products from their list.
 
 ### Technologies
-Include Technologies here
+C#
+ASP.Net MVC
+SQL
+Bootstrap
+HTML/CSS
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Something I will have to learn is how to configure a third party API into my application.
+
 ### Project Tracker
 https://trello.com/b/Eb2qg3Ah/liftoff-project
