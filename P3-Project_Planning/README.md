@@ -8,11 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 -Home Page 
+
 -New User
+
 -Find Games
+
 -My List
+
 -Top Games
-![Wireframe Image](file:///C:/Users/aliya/Downloads/R-MAV%20(2)
+
 ### Project Tracker
 https://trello.com/b/Eb2qg3Ah/liftoff-project
 
