@@ -12,11 +12,10 @@ For this assignment, you'll create some initial plans for your project.
 -Find Games
 -My List
 -Top Games
-file:///C:/Users/aliya/Downloads/R-MAV%20(2).pdf
-
+![Wireframe Image](file:///C:/Users/aliya/Downloads/R-MAV%20(2)
 ### Project Tracker
 https://trello.com/b/Eb2qg3Ah/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/AJacobs94/RMAV
